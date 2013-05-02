@@ -33,8 +33,11 @@ and a C extension that I stopped maintaining
 more than a decade ago.
 
 I'm releasing it here for a number of reasons:
+
 1. It's just fun.
+
 1. Some folks asked me to (see previous reason).
+
 1. Mostly though, I want newish Ruby programmers to see that learning a new programming language is a process, a process we all go through. So go ahead and laugh when you look at the code. Laugh at the tabs, at the Java-ish camelCaseMethodNames, at the complete lack of tests and probably a million other things. I'll be laughing with you.
 
 Russ
